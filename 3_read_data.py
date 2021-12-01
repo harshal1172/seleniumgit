@@ -1,5 +1,5 @@
 import csv
-def getCSVData(fileName):
+def getCSVData(fileName1):
     # create an empty list to store rows
     rows = []
     # open the CSV file
